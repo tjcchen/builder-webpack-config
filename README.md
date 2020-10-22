@@ -1,2 +1,2 @@
 # builder-webpack
-A builder webpack project
+A builder-webpack configurations
