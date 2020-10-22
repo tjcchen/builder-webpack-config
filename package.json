@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A builder webpack config project",
   "main": "index.js",
   "scripts": {
