@@ -2,3 +2,6 @@
 
 # builder-webpack-config
 A builder webpack configuration project.
+
+# License
+This project is licensed under the terms of the MIT license.
