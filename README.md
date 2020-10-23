@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/tjcchen/builder-webpack.svg?branch=main)](https://travis-ci.org/tjcchen/builder-webpack)
+[![Build Status](https://travis-ci.org/tjcchen/builder-webpack-config.svg?branch=main)](https://travis-ci.org/tjcchen/builder-webpack-config)
 
 # builder-webpack-config
 A builder webpack configuration project.
