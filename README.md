@@ -6,6 +6,11 @@ A builder webpack configuration npm module.
 # Website
 https://www.npmjs.com/package/builder-webpack-config
 
+# Usage
+<code>
+  <pre>npm i builder-webpack-config -D</pre>
+</code>
+
 # Concact
 Email: tjcchen.engineer@gmail.com
 
