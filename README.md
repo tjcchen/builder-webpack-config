@@ -7,7 +7,7 @@ A webpack configuration npm module.
 https://www.npmjs.com/package/builder-webpack-config
 
 # Usage
-Usage: ```bash npm i builder-webpack-config -D ```
+Usage: ``` npm i builder-webpack-config -D ```
 
 # Concact
 Email: tjcchen.engineer@gmail.com
